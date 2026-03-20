@@ -1,4 +1,4 @@
-# 🦀 Rust AI LMStudio Chat – Cliente CLI para Modelos Locais
+# 🦀 Rust AI LMStudio Chat: Cliente CLI para Modelos Locais
 
 [![Rust](https://img.shields.io/badge/Rust-1.70%2B-orange?logo=rust&logoColor=white)](https://rustlang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
