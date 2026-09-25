@@ -64,6 +64,3 @@ ureq – Cliente HTTP leve e simples (sem async).
 serde / serde_json – Serialização e desserialização de dados.
 
 anyhow – Tratamento de erros simplificado.
-
-# 📄 Licença
-Este projeto está licenciado sob a MIT License. Sinta-se à vontade para usar, modificar e distribuir.
